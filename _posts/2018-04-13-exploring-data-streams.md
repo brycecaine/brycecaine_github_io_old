@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Exploring Data Streams"
-date:   2018-04-13 10:51:14 -0600
-categories: data
+date:   2018-04-13
+categories: data streams kafka avro enterprise-architecture
+comments: true
 ---
 
 # Resources
